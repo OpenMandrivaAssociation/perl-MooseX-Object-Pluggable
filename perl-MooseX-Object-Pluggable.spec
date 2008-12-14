@@ -1,6 +1,6 @@
 
 %define realname   MooseX-Object-Pluggable
-%define version    0.0008
+%define version    0.0009
 %define release    %mkrel 1
 
 Name:       perl-%{realname}
