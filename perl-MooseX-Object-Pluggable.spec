@@ -55,3 +55,30 @@ rm -rf %buildroot
 %perl_vendorlib/*
 
 
+
+
+%changelog
+* Mon Apr 18 2011 Funda Wang <fwang@mandriva.org> 0.0011-3mdv2011.0
++ Revision: 655108
+- rebuild for updated spec-helper
+
+* Mon May 03 2010 Jérôme Quelin <jquelin@mandriva.org> 0.0011-2mdv2011.0
++ Revision: 541803
+- rebuild
+
+* Fri May 01 2009 Jérôme Quelin <jquelin@mandriva.org> 0.0011-1mdv2010.0
++ Revision: 369778
+- update to new version 0.0011
+
+* Sun Dec 14 2008 Guillaume Rousse <guillomovitch@mandriva.org> 0.0009-1mdv2009.1
++ Revision: 314340
+- new version
+
+* Wed Dec 03 2008 Jérôme Quelin <jquelin@mandriva.org> 0.0008-1mdv2009.1
++ Revision: 309774
+- import perl-MooseX-Object-Pluggable
+
+
+* Wed Dec 03 2008 cpan2dist 0.0008-1mdv
+- initial mdv release, generated with cpan2dist
+
