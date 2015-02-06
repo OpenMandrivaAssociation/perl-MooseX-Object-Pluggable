@@ -1,7 +1,7 @@
 
 %define realname   MooseX-Object-Pluggable
 %define version    0.0011
-%define release    4
+%define release    5
 
 Name:       perl-%{realname}
 Version:    %{version}
