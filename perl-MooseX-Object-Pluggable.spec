@@ -10,7 +10,7 @@ License:    GPL or Artistic
 Group:      Development/Perl
 Summary:    Make your classes pluggable
 Source:     http://www.cpan.org/modules/by-module/MooseX/%{realname}-%{version}.tar.gz
-Url:        http://search.cpan.org/dist/%{realname}
+Url:        https://search.cpan.org/dist/%{realname}
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: perl-devel
 BuildRequires: perl(ExtUtils::MakeMaker)
