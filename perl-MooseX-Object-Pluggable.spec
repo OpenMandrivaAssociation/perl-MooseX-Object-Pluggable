@@ -12,6 +12,7 @@ Summary:    Make your classes pluggable
 Source:     http://www.cpan.org/modules/by-module/MooseX/%{realname}-%{version}.tar.gz
 Url:        https://search.cpan.org/dist/%{realname}
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires: perl-devel
 BuildRequires: perl(ExtUtils::MakeMaker)
 BuildRequires: perl(Module::Pluggable::Object)
